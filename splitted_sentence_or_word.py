@@ -1,0 +1,21 @@
+pragraph = "my name is chowdhury jayed nahian . i am a univeercity student . i lives in comilla"
+string_split =  pragraph.split('.')
+print("=============")
+print(pragraph)
+print("splitted pragraph into sentence")
+print(string_split)
+print("=============")
+print(string_split[0])
+print("=============")
+print(string_split[1])
+
+sentence = "my-name-is-jayed nahian"
+print(sentence)
+print("splitting sentence into word")
+split_word = sentence.split('-')
+print("=============")
+print(split_word)
+print("=============")
+print(split_word[0])
+print("=============")
+print(split_word[1])

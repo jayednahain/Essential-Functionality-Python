@@ -1,0 +1,10 @@
+"'isupper()
+islower()
+isspace()
+isdigit()
+isnumeric()
+isascii()'"
+
+#convert
+"'uper()
+lower()'"
